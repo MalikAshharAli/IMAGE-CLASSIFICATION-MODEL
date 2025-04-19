@@ -53,30 +53,6 @@ This project is a simple yet effective implementation of a **Convolutional Neura
   - More Layers
   - Dropout or Batch Normalization
 
----
 
-## 🖥️ How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-github/image-classification-cnn.git
-Install dependencies:
 
-bash
-Copy
-Edit
-pip install tensorflow matplotlib
-Run the notebook:
-
-bash
-Copy
-Edit
-jupyter notebook Image_Classification_CNN_TensorFlow.ipynb
-📦 File Overview
-bash
-Copy
-Edit
-📦 image-classification-cnn
-├── Image_Classification_CNN_TensorFlow.ipynb  # Main model and training
-├── REVIEW.md                                  # Project showcase and review
-└── README.md                                  # Project description and setup
